@@ -1,7 +1,7 @@
 var a = document.getElementById('tampil');
 		function putarmusic(){
 			a.style.display = "none";
-			var audio = new Audio('https://c.top4top.io/m_3354z7vgu0.mp3');
+			var audio = new Audio('https://b.top4top.io/m_3355hfr7e0.mp3');
 			audio.play();
 		}
 		
